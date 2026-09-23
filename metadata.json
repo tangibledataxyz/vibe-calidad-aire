@@ -1,0 +1,6 @@
+{
+  "name": "AireMadrid - Calidad del Aire",
+  "description": "Visualizaciones interactivas y observatorio de calidad del aire en Madrid con datos oficiales de estaciones de monitorización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
